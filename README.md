@@ -16,11 +16,11 @@ At The First This App is Made By [Matin Ghaznavi](https://github.com/hillscape/w
 You Can Reach Me From The Following Links:
 <p>
   <a href="https://www.instagram.com/nothillscape/" rel="nofollow noreferrer">
-    <img src="media/ig.png" alt="instagram">
+    <img src="media/ig.jpg" alt="instagram">
   </a>
   <br>
   <a href="https://github.com/hillscape" rel="nofollow noreferrer">
-    <img src="media/git.png" alt="github">
+    <img src="media/git.jpg" alt="github">
   </a><br><a href="https://www.freelancer.com/u/Hillscape" rel="nofollow noreferrer">
     <img src="media/freelancer.jpg" alt="freelancer">
   </a><br>
