@@ -10,7 +10,7 @@ At The First This App is Made By [Matin Ghaznavi](https://github.com/hillscape/w
 5. When The App Is Running You Can Convert Any Word File To Any Pdf File
 6. Enjoy Your Minimal Program
 
-![Startup](media/giffile.gif)
+![Startup](media/realgif.gif)
 
 # How to contact me
 You Can Reach Me From The Following Links:
